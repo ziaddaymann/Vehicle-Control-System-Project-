@@ -293,5 +293,4 @@ void Set_engine_temp_data(struct state *now)
 
 
 
-/*                                                   FINISH AFTER 5 HOURS :)                                               */
 
